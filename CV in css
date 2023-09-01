@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+header {
+  text-align: center;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+.contact, .experience, .education {
+  margin: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+h1, h2, h3 {
+  margin: 0;
+}
+
+p {
+  margin: 5px 0;
+}
